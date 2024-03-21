@@ -2,6 +2,8 @@ body {
   margin: 0;
 }
 
+/*Heading*/
+
 header h1 {
   background-color: #283739;
   color: #e0ebeb;
@@ -35,6 +37,8 @@ nav a:hover {
   color: #a7bcb9;
 }
 
+/*Purpose of the page*/
+
 #about {
   font-size: 18px;
   font-weight: 700;
@@ -44,11 +48,7 @@ nav a:hover {
   font-family: Roboto, sans-serif;
 }
 
-h2 {
-  text-align: center;
-  color: #24527a;
-  font-family: Bellota, serif;
-}
+/*General containers*/
 
 .container {
   border: 2px solid #24527a;
@@ -57,6 +57,14 @@ h2 {
   text-align: center;
   margin: 40px auto;
 }
+
+h2 {
+  text-align: center;
+  color: #24527a;
+  font-family: Bellota, serif;
+}
+
+/*Colors section*/
 
 .color-panel {
   font-family: Roboto, serif;
@@ -98,6 +106,8 @@ h2 {
 .outer-space {
   background-color: #283739;
 }
+
+/*Fonts Section*/
 
 .font-panel {
   background-color: #a7bcb9;
@@ -141,6 +151,8 @@ h2 {
   font-style: italic;
 }
 
+/*Text Styles Section*/
+
 .text-style-panel {
   margin: 20px;
 }
@@ -161,6 +173,8 @@ h2 {
   text-align: left;
   font-family: Roboto, sans-serif;
 }
+
+/*Footer*/
 
 footer {
   text-align: center;
